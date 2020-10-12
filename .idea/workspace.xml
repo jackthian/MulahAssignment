@@ -10,10 +10,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -31,6 +31,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602468532222</updated>
-      <workItem from="1602468533324" duration="22726000" />
+      <workItem from="1602468533324" duration="33876000" />
     </task>
     <servers />
   </component>
@@ -47,10 +57,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602512279392">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602512279392" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1602488699430">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602488699430" />
+    <state width="1500" height="222" key="GridCell.Tab.0.bottom" timestamp="1602515649631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1500" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602515649631" />
+    <state width="1500" height="222" key="GridCell.Tab.0.center" timestamp="1602515649631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1500" height="222" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602515649631" />
+    <state width="1500" height="222" key="GridCell.Tab.0.left" timestamp="1602515649631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1500" height="222" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602515649631" />
+    <state width="1500" height="222" key="GridCell.Tab.0.right" timestamp="1602515649631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1500" height="222" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602515649631" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1602489341573">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
