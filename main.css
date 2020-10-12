@@ -1,0 +1,95 @@
+.heading_main
+{
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    width:50%;
+    padding: 3px 80px;
+    margin: auto;
+
+}
+
+.phone
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+.phone_top
+{
+    padding-top: 20px;
+}
+
+.form
+{
+    margin: auto;
+    width:50%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 10px;
+    background-color: orangered;
+    color:white;
+}
+
+h1
+{
+    font-size: 60px;
+}
+
+h2
+{
+    font-size: 20px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+input[type=tel]
+{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px ;
+}
+
+::-webkit-input-placeholder
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+input[type=submit]
+{
+    background-color:green;
+    font-family: Arial,sans-serif;
+    font-size: 25px;
+    border-radius: 5px;
+    padding:8px 20px;
+    width:30%;
+    color:white;
+}
+input[type=submit]:hover{
+    opacity: 70%;
+}
+.button
+{
+    text-align: center;
+    padding-bottom: 20px;
+}
+a
+{
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover
+{
+    opacity: 70%;
+    text-decoration: underline;
+}
