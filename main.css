@@ -54,7 +54,7 @@ input[type=tel]
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
-    border-radius: 4px;
+    border-radius: 10px;
     box-sizing: border-box;
     font-size: 20px ;
 }
@@ -70,10 +70,10 @@ input[type=submit]
     background-color:green;
     font-family: Arial,sans-serif;
     font-size: 25px;
-    border-radius: 5px;
     padding:8px 20px;
-    width:30%;
+    width:20%;
     color:white;
+    border-radius: 10px;
 }
 input[type=submit]:hover{
     opacity: 70%;

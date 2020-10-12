@@ -1,0 +1,21 @@
+{
+  "name": "mulahAssignment",
+  "version": "1.0.0",
+  "dependencies": {};
+
+
+  "data": {
+    "thirdParty": {
+      "brands": [
+        {
+          "name": "",
+          "sharedId": "",
+          "outlets": [
+            {"name": ""}
+          ]
+        }
+      ]
+    }
+  },
+  "errors": []
+}

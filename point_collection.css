@@ -36,6 +36,7 @@ input[type=number]
     width: 10%;
     padding: 10px 8px;
     font-size: 20px;
+    border-radius: 10px;
 }
 input[type=submit]
 {
@@ -49,4 +50,38 @@ input[type=submit]
 }
 input[type=submit]:hover{
     opacity: 70%;
+}
+.redeem_top
+{
+    padding-top:20px;
+}
+.redeem
+{
+    margin: auto;
+    width:50%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 10px;
+    background-color: orangered;
+    color:white;
+
+}
+.redeem_item
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+table
+{
+    width:80%;
+    font-size: 20px;
+    border: 1px solid black;
+}
+#minus_100,#minus_150
+{
+    font-size: 15px;
+    width: 10%;
+    text-align: center;
+    border-radius: 8px;
 }
